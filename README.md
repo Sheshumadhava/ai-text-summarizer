@@ -17,6 +17,18 @@ pip install sumy
 
 python summarizer.py
 
+
 ## Output Example
 
 ![Program Output](screenshots/output.png)
+
+# AI Text Summarizer (NLP Project)
+
+This project demonstrates automatic text summarization using Python and Natural Language Processing techniques.
+
+## Technologies Used
+- Python
+- Sumy
+- NLTK
+- NumPy
+
