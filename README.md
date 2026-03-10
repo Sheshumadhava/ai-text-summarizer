@@ -14,4 +14,9 @@ Automatic text summarization can help process large documents, news articles, an
 
 pip install sumy
 
+
 python summarizer.py
+
+## Output Example
+
+![Program Output](screenshots/output.png)
