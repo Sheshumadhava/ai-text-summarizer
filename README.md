@@ -1,2 +1,17 @@
-# ai-text-summarizer
-Python NLP project that summarizes long text using Latent Semantic Analysis.
+# AI Text Summarizer
+
+This project demonstrates a simple Natural Language Processing (NLP) application that summarizes long text into concise sentences.
+
+## Technologies
+- Python
+- NLP
+- Sumy library
+
+## Use Case
+Automatic text summarization can help process large documents, news articles, and medical notes.
+
+## How to Run
+
+pip install sumy
+
+python summarizer.py
